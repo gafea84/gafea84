@@ -1,9 +1,8 @@
-### Hi there 👋
 
-<!--
-**gafea84/gafea84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello world , I'm Gabriel Ferre! :computer:
 
-Here are some ideas to get you started:
+https://github.com/gafea84/gafea84/raw/master/Banner.png
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
