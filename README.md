@@ -31,7 +31,7 @@ Mi nombre es <strong>Gabriel Ferre</strong> y soy <strong>Junior Full Stack Deve
 
 - <strong>TeacherApp</strong> <br/>
   Una app divertida y completa hecha con JavaScript, Angular, Node JS y una base de datos Mysql<br/>
-  Repositorio --> <a href="https://github.com/gafea84?tab=repositories">Click here</a><br/>
+  Repositorio --> <a href="https://github.com/gafea84?tab=repositories">Click aquí</a><br/>
   
 
 <h2 align="center">Tecnologías & Skills 🖥️</h2>
