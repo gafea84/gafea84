@@ -1,6 +1,6 @@
 
 
-<h1 align="center">💻💻💻💻 Hello world <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="mailto:gafea84@gmail.com">Gabriel Ferre</a>! 💻💻💻💻</h1>
+<h1 align="center">💻💻💻💻 Hello world <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Soy <a href="mailto:gafea84@gmail.com">Gabriel Ferre</a>! 💻💻💻💻</h1>
 
 
 ![Banner](https://github.com/gafea84/gafea84/blob/main/Banner.png?raw=true)
@@ -15,27 +15,26 @@
   
 </div>
 
-My name is <strong>Gabriel Ferre</strong> and I am a <strong>Junior Full Stack Developer</strong> focused on improving SMEs and growing businesses through analytics, Design Thinking and efficient code. I am passionate about <strong>solving problems</strong> (and inconveniences) on a daily basis.
+Mi nombre es <strong>Gabriel Ferre</strong> y soy <strong>Junior Full Stack Developer</strong> enfocado en mejorar las PYMES y hacer crecer los negocios a través de la analítica, Design Thinking y código eficiente. Me apasiona resolver problemas (e inconvenientes) en el día a día.
+
+<h2 align="center">Ahora estoy trabajando en... 👨‍💻</h2>
 
 
-<h2 align="center">Actually Working On... 👨‍💻</h2>
-
-
-- JavaScript Algorithms and Data Structures Certification (<a href="https://www.freecodecamp.org/">freeCodeCamp</a>)
+- Certificación JavaScript Algorithms and Data Structures (<a href="https://www.freecodecamp.org/">freeCodeCamp</a>)
 
 - <a href="https://www.theodinproject.com/">The Odin Project</a>
 
-- My personal portfolio
+- Mi propio portfolio
 
 
-<h2 align="center">Recent Projects 🚧</h2>
+<h2 align="center">Proyectos más recientes 🚧</h2>
 
 - <strong>TeacherApp</strong> <br/>
-  A fun and complete app made with JavaScript, Angular, Node JS and a Mysql DB <br/>
-  Repository --> <a href="https://github.com/gafea84?tab=repositories">Click here</a><br/>
+  Una app divertida y completa hecha con JavaScript, Angular, Node JS y una base de datos Mysql<br/>
+  Repositorio --> <a href="https://github.com/gafea84?tab=repositories">Click here</a><br/>
   
 
-<h2 align="center">Technologies & Skills 🖥️</h2>
+<h2 align="center">Tecnologías & Skills 🖥️</h2>
 
 <div align="center">
 
@@ -73,7 +72,7 @@ My name is <strong>Gabriel Ferre</strong> and I am a <strong>Junior Full Stack D
   
 </div>
 
-<h2 align="center">Let's Connect! 🤙🏽</h2>
+<h2 align="center">Vamos a conectar! 🤙🏽</h2>
 
 <div id="badges" align="center">
 
