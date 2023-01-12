@@ -6,12 +6,12 @@
 ![Banner](https://github.com/gafea84/gafea84/blob/main/Banner.png?raw=true)
 
 
-<h2 align="center">About Me 😄</h2>
+<h2 align="center">Sobre mi 😄</h2>
 
 
 <div align="center">
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=18&duration=3000&pause=750&color=0969DA&center=true&vCenter=true&width=435&lines=I'm+a+Junior+Full+Stack+Developer!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=18&duration=3000&pause=750&color=0969DA&center=true&vCenter=true&width=435&lines=Soy+Junior+Full+Stack+Developer!" alt="Typing SVG" /></a>
   
 </div>
 
