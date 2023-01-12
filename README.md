@@ -1,7 +1,7 @@
 
 Hello world , I'm Gabriel Ferre! :computer:
 
-https://github.com/gafea84/gafea84/raw/master/Banner.png
+https://github.com/gafea84/gafea84/raw/main/Banner.png
 
 
 - 🔭 I’m currently working on ...
